@@ -1,3 +1,3 @@
-module github.com/hugo-toha/toha/v4
+module github.com/BDAthans/toha
 
 go 1.21
